@@ -2,7 +2,7 @@
 
 ## Description
 
-> Enhance user loyalty through personalized experiences, advanced social features, and solid authentication.
+> Enhance user loyalty through personalized experiences and advanced social features.
 
 ---
 
@@ -15,7 +15,6 @@
 ## Technical Requirements
 
 * **Key Integration:** Connect with the Steam API to fetch user profiles and personalize recommendations.
-* **Security/Compliance:** Develop a secure Authentication service for strict account access control.
 
 ---
 
@@ -23,8 +22,7 @@
 
 To consider this Epic complete, the following must be true:
 
-1. [ ] Users can securely authenticate and manage their accounts.
-2. [ ] Steam profiles are successfully linked, retrieving data from the Steam API.
+1. [ ] Steam profiles are successfully linked, retrieving data from the Steam API.
 3. [ ] Users earn gamification badges based on platform seniority.
 4. [ ] The custom engine accurately recommends games based on trends and user preferences.
 
@@ -33,5 +31,5 @@ To consider this Epic complete, the following must be true:
 ## Big User Story
 
 **As a** User,
-**I want to** have a secure account with gamified badges and tailored game recommendations,
+**I want to** have a custom account with gamified badges and tailored game recommendations,
 **So that** I feel engaged and instantly discover games suited to my tastes.
